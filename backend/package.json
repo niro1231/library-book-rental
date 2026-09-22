@@ -7,6 +7,9 @@
     "dev": "nodemon server.js",
     "seed:books": "node src/seeds/seedBooks.js"
   },
+  "engines": {
+    "node": "24.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
